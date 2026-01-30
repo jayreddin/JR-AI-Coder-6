@@ -1,1 +1,1 @@
-# JR-AI-Coder-6
+# JR-Coder-AI
